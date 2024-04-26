@@ -63,6 +63,7 @@ The project consists of the following components:
 4. **Monitoring**:
    - Monitor the remaining food level and device status through MQTT messages.
    - The device periodically sends updates on the remaining food level and other relevant information.
+[DEMO CLIP](https://youtu.be/VCjP-1S2tZ8)
 
 ## MQTT Topics
 
